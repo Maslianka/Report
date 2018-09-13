@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\report_msunit\report_msunit\bin\Debug\report_msunit.exe.config
+C:\Users\Home\source\repos\report_msunit\report_msunit\bin\Debug\report_msunit.exe
+C:\Users\Home\source\repos\report_msunit\report_msunit\bin\Debug\report_msunit.pdb
+C:\Users\Home\source\repos\report_msunit\report_msunit\obj\Debug\report_msunit.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\report_msunit\report_msunit\obj\Debug\report_msunit.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\report_msunit\report_msunit\obj\Debug\report_msunit.exe
+C:\Users\Home\source\repos\report_msunit\report_msunit\obj\Debug\report_msunit.pdb
